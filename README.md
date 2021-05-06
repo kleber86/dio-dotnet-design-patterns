@@ -1,3 +1,5 @@
+# Conteudo baixado para estudos sobre DDD.
+
 # DesignPatternSamples
 |Branch|Build|
 |-:|-|
